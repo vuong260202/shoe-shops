@@ -1,0 +1,6 @@
+[submodule "web-shop-be"]
+	path = web-shop-be
+	url = https://github.com/vuong260202/web-shop-be
+[submodule "web-shop-fe"]
+	path = web-shop-fe
+	url = https://github.com/vuong260202/web-shop-fe
